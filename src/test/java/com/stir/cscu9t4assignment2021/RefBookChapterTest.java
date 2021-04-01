@@ -14,33 +14,33 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * @author saemundur
+ * @author 2835267
  */
 public class RefBookChapterTest {
-    
+
     public RefBookChapterTest() {
     }
-    
+
     @BeforeAll
     public static void setUpClass() {
     }
-    
+
     @AfterAll
     public static void tearDownClass() {
     }
-    
+
     @BeforeEach
     public void setUp() {
     }
-    
+
     @AfterEach
     public void tearDown() {
     }
 
     /**
-     * Test of 
+     * Test of
      */
-    
+
     /**
      * Test of getBook method, of class RefBookChapter.
      * Also tests the constructor without date added
@@ -50,18 +50,33 @@ public class RefBookChapterTest {
         System.out.println("getBook");
         String title = "Some Book Chapter";
         String book = "Some book about stuff";
-        String authors = "Saemi Haraldsson, Ragnheidur Brynjolfsdottir";
+        String[] authors = {"Saemi Haraldsson", "Ragnheidur Brynjolfsdottir"};
         String doi = "10.123456/9876";
         String publisher = "Springer";
         String editor = "Scooby Doo";
         int pubyear = 2002;
-        RefBookChapter instance = new RefBookChapter(title,book,authors,doi,
-                                                    publisher,editor,pubyear);
+        RefBookChapter instance = new RefBookChapter(title, authors, doi,
+                publisher, pubyear, book, editor);
         String expResult = "Some book about stuff";
         String result = instance.getBook();
         assertEquals(expResult, result);
     }
-
+    @Test
+    public void testGetEditor() {
+        System.out.println("getEditor");
+        String title = "Some Book Chapter";
+        String book = "Some book about stuff";
+        String[] authors = {"Saemi Haraldsson", "Ragnheidur Brynjolfsdottir"};
+        String doi = "10.123456/9876";
+        String publisher = "Springer";
+        String editor = "Scooby Doo";
+        int pubyear = 2002;
+        RefBookChapter instance = new RefBookChapter(title, authors, doi,
+                publisher, pubyear, book, editor);
+        String expResult = "Scooby Doo";
+        String result = instance.getEditor();
+        assertEquals(expResult, result);
+    }
     /**
      * Test of getCitation method, of class RefBookChapter.
      * Also tests the constructor without date added
@@ -71,7 +86,7 @@ public class RefBookChapterTest {
         System.out.println("getCitation");
         String title = "Some Book Chapter";
         String book = "Some book about stuff";
-        String authors = "Saemi Haraldsson, Ragnheidur Brynjolfsdottir";
+        String[] authors = {"Saemi Haraldsson", "Ragnheidur Brynjolfsdottir"};
         String doi = "10.123456/9876";
         String publisher = "Springer";
         String editor = "Scooby Doo";
@@ -79,15 +94,11 @@ public class RefBookChapterTest {
         int day = 1;
         int month = 1;
         int year = 2021;
-        RefBookChapter instance = new RefBookChapter(title,book,authors,doi,
-                                                     publisher,editor,pubyear,
-                                                     day,month,year
-                                                    );
-        String expResult = "Saemi Haraldsson, Ragnheidur Brynjolfsdottir (2002),"
-                           +" Some Book Chapter, in Some book about stuff, Springer ,"
-                            +" ed: Scooby Doo, doi:10.123456/9876";
+        RefBookChapter instance = new RefBookChapter(title, authors, doi,
+                publisher, pubyear,book, editor,day,month,year);
+        String expResult = "Some Book Chapter, (2002), Saemi Haraldsson, Ragnheidur Brynjolfsdottir, in Some book about stuff, Springer, ed: Scooby Doo, doi:10.123456/9876,  01/01/2021 \n";
         String result = instance.getCitation();
         assertEquals(expResult, result);
     }
-    
+
 }

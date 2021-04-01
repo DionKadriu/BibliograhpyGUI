@@ -14,25 +14,25 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * @author saemundur
+ * @author 2835267
  */
 public class RefConferenceTest {
-    
+
     public RefConferenceTest() {
     }
-    
+
     @BeforeAll
     public static void setUpClass() {
     }
-    
+
     @AfterAll
     public static void tearDownClass() {
     }
-    
+
     @BeforeEach
     public void setUp() {
     }
-    
+
     @AfterEach
     public void tearDown() {
     }
@@ -43,12 +43,24 @@ public class RefConferenceTest {
     @Test
     public void testGetVenue() {
         System.out.println("getVenue");
-        RefConference instance = null;
-        String expResult = "";
+        String []authors={""};
+        RefConference instance = new RefConference("The Old Man and the Sea",authors ,"1000.0"
+                ,"Charles Scribner's Sons",2006,"Some Venue","Kosovo");
+        String expResult = "Some Venue";
         String result = instance.getVenue();
         assertEquals(expResult, result);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
+
+    }
+    @Test
+    public void testGetLocation() {
+        System.out.println("getLocation");
+        String []authors={""};
+        RefConference instance = new RefConference("The Old Man and the Sea",authors ,"1000.0"
+                ,"Charles Scribner's Sons",2006,"Some Venue","Kosovo");
+        String expResult = "Kosovo";
+        String result = instance.getLocation();
+        assertEquals(expResult, result);
+
     }
 
     /**
@@ -57,12 +69,13 @@ public class RefConferenceTest {
     @Test
     public void testGetCitation() {
         System.out.println("getCitation");
-        RefConference instance = null;
-        String expResult = "";
+        String []authors={"Author"};
+        RefConference instance = new RefConference("The Old Man and the Sea",authors ,"1000.0"
+                ,"Charles Scribner's Sons",2006,"Some Venue","Kosovo",2,2,2000);
+        String expResult = "The Old Man and the Sea, (2006) Author, Charles Scribner's Sons, Some Venue in Kosovo doi:1000.0,  02/02/2000 \n";
         String result = instance.getCitation();
         assertEquals(expResult, result);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
+
     }
-    
+
 }
