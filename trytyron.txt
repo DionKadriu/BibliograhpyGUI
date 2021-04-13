@@ -1,0 +1,219 @@
+Title-E-11, (2012) , Heidi Brynjolfsdottir, IEEE, "journal-s", vol.4 no.6 doi:1163/629  13/07/2021 
+Title-F-11, (2015), Heidi Brynjolfsdottir, in book-a, IEEE, ed: Elsa, doi:1015/183,  13/02/2021 
+Title-H-16, (2004) , Heidi Brynjolfsdottir, IEEE, "journal-y", vol.7 no.7 doi:1020/96  12/08/2021 
+Title-A-19, (2000) , Heidi Brynjolfsdottir, IEEE, "journal-s", vol.2 no.9 doi:566/238  05/06/2021 
+Title-C-23, (1999) , Heidi Brynjolfsdottir, IEEE, "journal-t", vol.3 no.1 doi:720/600  01/09/2021 
+Title-D-26, (2009), Heidi Brynjolfsdottir, in book-s, IEEE, ed: Elsa, doi:332/765,  18/11/2021 
+Title-H-27, (2003) , Heidi Brynjolfsdottir, IEEE, "journal-t", vol.5 no.2 doi:352/1994  20/03/2021 
+Title-G-36, (2019) , Heidi Brynjolfsdottir, IEEE, "journal-t", vol.8 no.1 doi:732/735  08/03/2021 
+Title-H-37, (2001) , Heidi Brynjolfsdottir, IEEE, "journal-p", vol.5 no.4 doi:787/1348  11/10/2021 
+Title-G-48, (2018) Heidi Brynjolfsdottir, IEEE, Conference-1 in Location-R doi:1625/1463,  08/01/2021 
+Title-D-50, (2016), Heidi Brynjolfsdottir, in book-g, IEEE, ed: Guffy, doi:516/849,  04/08/2021 
+Title-A-71, (2005) , Heidi Brynjolfsdottir, IEEE, "journal-s", vol.8 no.9 doi:1862/1457  24/06/2021 
+Title-H-72, (2017) Heidi Brynjolfsdottir, IEEE, Conference-5 in Location-R doi:266/1642,  02/01/2021 
+Title-B-75, (2019) , Heidi Brynjolfsdottir, IEEE, "journal-t", vol.5 no.2 doi:1954/1902  29/07/2021 
+Title-F-77, (2002) Heidi Brynjolfsdottir, IEEE, Conference-4 in Location-Y doi:1768/1709,  20/10/2021 
+Title-B-94, (2013), Heidi Brynjolfsdottir, in book-h, IEEE, ed: Donald Duck, doi:1285/1098,  10/04/2021 
+Title-E-11, (2012) , Heidi Brynjolfsdottir, IEEE, "journal-s", vol.4 no.6 doi:1163/629  13/07/2021 
+Title-F-11, (2015), Heidi Brynjolfsdottir, in book-a, IEEE, ed: Elsa, doi:1015/183,  13/02/2021 
+Title-H-16, (2004) , Heidi Brynjolfsdottir, IEEE, "journal-y", vol.7 no.7 doi:1020/96  12/08/2021 
+Title-A-19, (2000) , Heidi Brynjolfsdottir, IEEE, "journal-s", vol.2 no.9 doi:566/238  05/06/2021 
+Title-C-23, (1999) , Heidi Brynjolfsdottir, IEEE, "journal-t", vol.3 no.1 doi:720/600  01/09/2021 
+Title-D-26, (2009), Heidi Brynjolfsdottir, in book-s, IEEE, ed: Elsa, doi:332/765,  18/11/2021 
+Title-H-27, (2003) , Heidi Brynjolfsdottir, IEEE, "journal-t", vol.5 no.2 doi:352/1994  20/03/2021 
+Title-G-36, (2019) , Heidi Brynjolfsdottir, IEEE, "journal-t", vol.8 no.1 doi:732/735  08/03/2021 
+Title-H-37, (2001) , Heidi Brynjolfsdottir, IEEE, "journal-p", vol.5 no.4 doi:787/1348  11/10/2021 
+Title-G-48, (2018) Heidi Brynjolfsdottir, IEEE, Conference-1 in Location-R doi:1625/1463,  08/01/2021 
+Title-D-50, (2016), Heidi Brynjolfsdottir, in book-g, IEEE, ed: Guffy, doi:516/849,  04/08/2021 
+Title-A-71, (2005) , Heidi Brynjolfsdottir, IEEE, "journal-s", vol.8 no.9 doi:1862/1457  24/06/2021 
+Title-H-72, (2017) Heidi Brynjolfsdottir, IEEE, Conference-5 in Location-R doi:266/1642,  02/01/2021 
+Title-B-75, (2019) , Heidi Brynjolfsdottir, IEEE, "journal-t", vol.5 no.2 doi:1954/1902  29/07/2021 
+Title-F-77, (2002) Heidi Brynjolfsdottir, IEEE, Conference-4 in Location-Y doi:1768/1709,  20/10/2021 
+Title-B-94, (2013), Heidi Brynjolfsdottir, in book-h, IEEE, ed: Donald Duck, doi:1285/1098,  10/04/2021 
+Title-E-11, (2012) , Heidi Brynjolfsdottir, IEEE, "journal-s", vol.4 no.6 doi:1163/629  13/07/2021 
+Title-F-11, (2015), Heidi Brynjolfsdottir, in book-a, IEEE, ed: Elsa, doi:1015/183,  13/02/2021 
+Title-H-16, (2004) , Heidi Brynjolfsdottir, IEEE, "journal-y", vol.7 no.7 doi:1020/96  12/08/2021 
+Title-A-19, (2000) , Heidi Brynjolfsdottir, IEEE, "journal-s", vol.2 no.9 doi:566/238  05/06/2021 
+Title-C-23, (1999) , Heidi Brynjolfsdottir, IEEE, "journal-t", vol.3 no.1 doi:720/600  01/09/2021 
+Title-D-26, (2009), Heidi Brynjolfsdottir, in book-s, IEEE, ed: Elsa, doi:332/765,  18/11/2021 
+Title-H-27, (2003) , Heidi Brynjolfsdottir, IEEE, "journal-t", vol.5 no.2 doi:352/1994  20/03/2021 
+Title-G-36, (2019) , Heidi Brynjolfsdottir, IEEE, "journal-t", vol.8 no.1 doi:732/735  08/03/2021 
+Title-H-37, (2001) , Heidi Brynjolfsdottir, IEEE, "journal-p", vol.5 no.4 doi:787/1348  11/10/2021 
+Title-G-48, (2018) Heidi Brynjolfsdottir, IEEE, Conference-1 in Location-R doi:1625/1463,  08/01/2021 
+Title-D-50, (2016), Heidi Brynjolfsdottir, in book-g, IEEE, ed: Guffy, doi:516/849,  04/08/2021 
+Title-A-71, (2005) , Heidi Brynjolfsdottir, IEEE, "journal-s", vol.8 no.9 doi:1862/1457  24/06/2021 
+Title-H-72, (2017) Heidi Brynjolfsdottir, IEEE, Conference-5 in Location-R doi:266/1642,  02/01/2021 
+Title-B-75, (2019) , Heidi Brynjolfsdottir, IEEE, "journal-t", vol.5 no.2 doi:1954/1902  29/07/2021 
+Title-F-77, (2002) Heidi Brynjolfsdottir, IEEE, Conference-4 in Location-Y doi:1768/1709,  20/10/2021 
+Title-B-94, (2013), Heidi Brynjolfsdottir, in book-h, IEEE, ed: Donald Duck, doi:1285/1098,  10/04/2021 
+Title-A-7, (2014) , Jason Adair, IEEE, "journal-t", vol.3 no.1 doi:1745/1497  13/05/2021 
+Title-H-38, (2020) , Jason Adair, IEEE, "journal-z", vol.4 no.8 doi:1734/1869  13/10/2021 
+Title-F-38, (2003), Jason Adair, in book-a, IEEE, ed: Guffy, doi:723/904,  04/08/2021 
+Title-A-39, (2018) , Jason Adair, IEEE, "journal-x", vol.8 no.6 doi:410/1390  02/08/2021 
+Title-F-44, (2008) , Jason Adair, IEEE, "journal-s", vol.5 no.3 doi:1485/634  26/07/2021 
+Title-C-44, (2000) Jason Adair, IEEE, Conference-7 in Location-U doi:431/1470,  01/02/2021 
+Title-H-59, (2000) , Jason Adair, IEEE, "journal-p", vol.3 no.2 doi:1170/1017  28/08/2021 
+Title-F-60, (2009), Jason Adair, in book-j, IEEE, ed: Guffy, doi:814/723,  29/08/2021 
+Title-E-62, (2007), Jason Adair, in book-g, IEEE, ed: Guffy, doi:1142/1000,  26/06/2021 
+Title-B-71, (2009) Jason Adair, IEEE, Conference-6 in Location-I doi:905/905,  19/06/2021 
+Title-C-72, (2003) , Jason Adair, IEEE, "journal-p", vol.8 no.3 doi:143/1861  04/05/2021 
+Title-C-77, (2006), Jason Adair, in book-j, IEEE, ed: Guffy, doi:883/1239,  01/03/2021 
+Title-C-80, (2019) Jason Adair, IEEE, Conference-8 in Location-O doi:164/1051,  19/04/2021 
+Title-G-83, (2008), Jason Adair, in book-l, IEEE, ed: Ariel, doi:416/485,  06/03/2021 
+Title-A-84, (2000), Jason Adair, in book-h, IEEE, ed: Mina Mouse, doi:1413/1824,  11/03/2021 
+Title-B-86, (2014) Jason Adair, IEEE, Conference-6 in Location-U doi:1215/415,  19/02/2021 
+Title-E-93, (2016) Jason Adair, IEEE, Conference-2 in Location-T doi:1111/1710,  23/05/2021 
+Title-A-7, (2014) , Jason Adair, IEEE, "journal-t", vol.3 no.1 doi:1745/1497  13/05/2021 
+Title-H-38, (2020) , Jason Adair, IEEE, "journal-z", vol.4 no.8 doi:1734/1869  13/10/2021 
+Title-F-38, (2003), Jason Adair, in book-a, IEEE, ed: Guffy, doi:723/904,  04/08/2021 
+Title-A-39, (2018) , Jason Adair, IEEE, "journal-x", vol.8 no.6 doi:410/1390  02/08/2021 
+Title-F-44, (2008) , Jason Adair, IEEE, "journal-s", vol.5 no.3 doi:1485/634  26/07/2021 
+Title-C-44, (2000) Jason Adair, IEEE, Conference-7 in Location-U doi:431/1470,  01/02/2021 
+Title-H-59, (2000) , Jason Adair, IEEE, "journal-p", vol.3 no.2 doi:1170/1017  28/08/2021 
+Title-F-60, (2009), Jason Adair, in book-j, IEEE, ed: Guffy, doi:814/723,  29/08/2021 
+Title-E-62, (2007), Jason Adair, in book-g, IEEE, ed: Guffy, doi:1142/1000,  26/06/2021 
+Title-B-71, (2009) Jason Adair, IEEE, Conference-6 in Location-I doi:905/905,  19/06/2021 
+Title-C-72, (2003) , Jason Adair, IEEE, "journal-p", vol.8 no.3 doi:143/1861  04/05/2021 
+Title-C-77, (2006), Jason Adair, in book-j, IEEE, ed: Guffy, doi:883/1239,  01/03/2021 
+Title-C-80, (2019) Jason Adair, IEEE, Conference-8 in Location-O doi:164/1051,  19/04/2021 
+Title-G-83, (2008), Jason Adair, in book-l, IEEE, ed: Ariel, doi:416/485,  06/03/2021 
+Title-A-84, (2000), Jason Adair, in book-h, IEEE, ed: Mina Mouse, doi:1413/1824,  11/03/2021 
+Title-B-86, (2014) Jason Adair, IEEE, Conference-6 in Location-U doi:1215/415,  19/02/2021 
+Title-E-93, (2016) Jason Adair, IEEE, Conference-2 in Location-T doi:1111/1710,  23/05/2021 
+Title-A-7, (2014) , Jason Adair, IEEE, "journal-t", vol.3 no.1 doi:1745/1497  13/05/2021 
+Title-H-38, (2020) , Jason Adair, IEEE, "journal-z", vol.4 no.8 doi:1734/1869  13/10/2021 
+Title-F-38, (2003), Jason Adair, in book-a, IEEE, ed: Guffy, doi:723/904,  04/08/2021 
+Title-A-39, (2018) , Jason Adair, IEEE, "journal-x", vol.8 no.6 doi:410/1390  02/08/2021 
+Title-F-44, (2008) , Jason Adair, IEEE, "journal-s", vol.5 no.3 doi:1485/634  26/07/2021 
+Title-C-44, (2000) Jason Adair, IEEE, Conference-7 in Location-U doi:431/1470,  01/02/2021 
+Title-H-59, (2000) , Jason Adair, IEEE, "journal-p", vol.3 no.2 doi:1170/1017  28/08/2021 
+Title-F-60, (2009), Jason Adair, in book-j, IEEE, ed: Guffy, doi:814/723,  29/08/2021 
+Title-E-62, (2007), Jason Adair, in book-g, IEEE, ed: Guffy, doi:1142/1000,  26/06/2021 
+Title-B-71, (2009) Jason Adair, IEEE, Conference-6 in Location-I doi:905/905,  19/06/2021 
+Title-C-72, (2003) , Jason Adair, IEEE, "journal-p", vol.8 no.3 doi:143/1861  04/05/2021 
+Title-C-77, (2006), Jason Adair, in book-j, IEEE, ed: Guffy, doi:883/1239,  01/03/2021 
+Title-C-80, (2019) Jason Adair, IEEE, Conference-8 in Location-O doi:164/1051,  19/04/2021 
+Title-G-83, (2008), Jason Adair, in book-l, IEEE, ed: Ariel, doi:416/485,  06/03/2021 
+Title-A-84, (2000), Jason Adair, in book-h, IEEE, ed: Mina Mouse, doi:1413/1824,  11/03/2021 
+Title-B-86, (2014) Jason Adair, IEEE, Conference-6 in Location-U doi:1215/415,  19/02/2021 
+Title-E-93, (2016) Jason Adair, IEEE, Conference-2 in Location-T doi:1111/1710,  23/05/2021 
+Title-G-1, (2007) , Kevin Bacon, IEEE, "journal-x", vol.5 no.5 doi:580/491  13/02/2021 
+Title-C-14, (2011) , Kevin Bacon, IEEE, "journal-t", vol.6 no.2 doi:1267/1182  02/05/2021 
+Title-F-24, (2000), Kevin Bacon, in book-l, IEEE, ed: Mina Mouse, doi:78/504,  15/10/2021 
+Title-H-25, (2011) Kevin Bacon, IEEE, Conference-4 in Location-P doi:1838/228,  23/01/2021 
+Title-G-26, (2003) , Kevin Bacon, IEEE, "journal-z", vol.5 no.4 doi:1381/1967  23/02/2021 
+Title-F-30, (2017) Kevin Bacon, IEEE, Conference-2 in Location-P doi:508/81,  19/08/2021 
+Title-D-35, (2012) Kevin Bacon, IEEE, Conference-3 in Location-Y doi:1062/1477,  20/11/2021 
+Title-E-43, (2002) Kevin Bacon, IEEE, Conference-7 in Location-R doi:838/142,  26/06/2021 
+Title-A-45, (2019) , Kevin Bacon, IEEE, "journal-t", vol.2 no.9 doi:163/1536  21/08/2021 
+Title-D-53, (2016) , Kevin Bacon, IEEE, "journal-x", vol.7 no.4 doi:872/1260  19/03/2021 
+Title-H-55, (2006) , Kevin Bacon, IEEE, "journal-x", vol.7 no.6 doi:1043/1976  27/10/2021 
+Title-G-60, (2001) , Kevin Bacon, IEEE, "journal-t", vol.8 no.9 doi:704/457  02/11/2021 
+Title-H-64, (2000) Kevin Bacon, IEEE, Conference-5 in Location-Y doi:1234/1692,  22/06/2021 
+Title-A-66, (2001) , Kevin Bacon, IEEE, "journal-q", vol.8 no.9 doi:568/1452  21/05/2021 
+Title-H-70, (2015) Kevin Bacon, IEEE, Conference-5 in Location-Y doi:728/1019,  20/01/2021 
+Title-E-73, (2005), Kevin Bacon, in book-k, IEEE, ed: , doi:889/829,  18/05/2021 
+Title-E-76, (2017), Kevin Bacon, in book-j, IEEE, ed: Guffy, doi:197/1583,  29/08/2021 
+Title-A-78, (2004), Kevin Bacon, in book-j, IEEE, ed: Elsa, doi:1159/527,  23/08/2021 
+Title-F-87, (2001), Kevin Bacon, in book-s, IEEE, ed: Ariel, doi:649/586,  22/06/2021 
+Title-F-89, (2003) , Kevin Bacon, IEEE, "journal-q", vol.4 no.8 doi:166/1052  08/03/2021 
+Title-F-97, (2000), Kevin Bacon, in book-d, IEEE, ed: Guffy, doi:12/1513,  07/07/2021 
+Title-G-1, (2007) , Kevin Bacon, IEEE, "journal-x", vol.5 no.5 doi:580/491  13/02/2021 
+Title-C-14, (2011) , Kevin Bacon, IEEE, "journal-t", vol.6 no.2 doi:1267/1182  02/05/2021 
+Title-F-24, (2000), Kevin Bacon, in book-l, IEEE, ed: Mina Mouse, doi:78/504,  15/10/2021 
+Title-H-25, (2011) Kevin Bacon, IEEE, Conference-4 in Location-P doi:1838/228,  23/01/2021 
+Title-G-26, (2003) , Kevin Bacon, IEEE, "journal-z", vol.5 no.4 doi:1381/1967  23/02/2021 
+Title-F-30, (2017) Kevin Bacon, IEEE, Conference-2 in Location-P doi:508/81,  19/08/2021 
+Title-D-35, (2012) Kevin Bacon, IEEE, Conference-3 in Location-Y doi:1062/1477,  20/11/2021 
+Title-E-43, (2002) Kevin Bacon, IEEE, Conference-7 in Location-R doi:838/142,  26/06/2021 
+Title-A-45, (2019) , Kevin Bacon, IEEE, "journal-t", vol.2 no.9 doi:163/1536  21/08/2021 
+Title-D-53, (2016) , Kevin Bacon, IEEE, "journal-x", vol.7 no.4 doi:872/1260  19/03/2021 
+Title-H-55, (2006) , Kevin Bacon, IEEE, "journal-x", vol.7 no.6 doi:1043/1976  27/10/2021 
+Title-G-60, (2001) , Kevin Bacon, IEEE, "journal-t", vol.8 no.9 doi:704/457  02/11/2021 
+Title-H-64, (2000) Kevin Bacon, IEEE, Conference-5 in Location-Y doi:1234/1692,  22/06/2021 
+Title-A-66, (2001) , Kevin Bacon, IEEE, "journal-q", vol.8 no.9 doi:568/1452  21/05/2021 
+Title-H-70, (2015) Kevin Bacon, IEEE, Conference-5 in Location-Y doi:728/1019,  20/01/2021 
+Title-E-73, (2005), Kevin Bacon, in book-k, IEEE, ed: , doi:889/829,  18/05/2021 
+Title-E-76, (2017), Kevin Bacon, in book-j, IEEE, ed: Guffy, doi:197/1583,  29/08/2021 
+Title-A-78, (2004), Kevin Bacon, in book-j, IEEE, ed: Elsa, doi:1159/527,  23/08/2021 
+Title-F-87, (2001), Kevin Bacon, in book-s, IEEE, ed: Ariel, doi:649/586,  22/06/2021 
+Title-F-89, (2003) , Kevin Bacon, IEEE, "journal-q", vol.4 no.8 doi:166/1052  08/03/2021 
+Title-F-97, (2000), Kevin Bacon, in book-d, IEEE, ed: Guffy, doi:12/1513,  07/07/2021 
+Title-G-1, (2007) , Kevin Bacon, IEEE, "journal-x", vol.5 no.5 doi:580/491  13/02/2021 
+Title-C-14, (2011) , Kevin Bacon, IEEE, "journal-t", vol.6 no.2 doi:1267/1182  02/05/2021 
+Title-F-24, (2000), Kevin Bacon, in book-l, IEEE, ed: Mina Mouse, doi:78/504,  15/10/2021 
+Title-H-25, (2011) Kevin Bacon, IEEE, Conference-4 in Location-P doi:1838/228,  23/01/2021 
+Title-G-26, (2003) , Kevin Bacon, IEEE, "journal-z", vol.5 no.4 doi:1381/1967  23/02/2021 
+Title-F-30, (2017) Kevin Bacon, IEEE, Conference-2 in Location-P doi:508/81,  19/08/2021 
+Title-D-35, (2012) Kevin Bacon, IEEE, Conference-3 in Location-Y doi:1062/1477,  20/11/2021 
+Title-E-43, (2002) Kevin Bacon, IEEE, Conference-7 in Location-R doi:838/142,  26/06/2021 
+Title-A-45, (2019) , Kevin Bacon, IEEE, "journal-t", vol.2 no.9 doi:163/1536  21/08/2021 
+Title-D-53, (2016) , Kevin Bacon, IEEE, "journal-x", vol.7 no.4 doi:872/1260  19/03/2021 
+Title-H-55, (2006) , Kevin Bacon, IEEE, "journal-x", vol.7 no.6 doi:1043/1976  27/10/2021 
+Title-G-60, (2001) , Kevin Bacon, IEEE, "journal-t", vol.8 no.9 doi:704/457  02/11/2021 
+Title-H-64, (2000) Kevin Bacon, IEEE, Conference-5 in Location-Y doi:1234/1692,  22/06/2021 
+Title-A-66, (2001) , Kevin Bacon, IEEE, "journal-q", vol.8 no.9 doi:568/1452  21/05/2021 
+Title-H-70, (2015) Kevin Bacon, IEEE, Conference-5 in Location-Y doi:728/1019,  20/01/2021 
+Title-E-73, (2005), Kevin Bacon, in book-k, IEEE, ed: , doi:889/829,  18/05/2021 
+Title-E-76, (2017), Kevin Bacon, in book-j, IEEE, ed: Guffy, doi:197/1583,  29/08/2021 
+Title-A-78, (2004), Kevin Bacon, in book-j, IEEE, ed: Elsa, doi:1159/527,  23/08/2021 
+Title-F-87, (2001), Kevin Bacon, in book-s, IEEE, ed: Ariel, doi:649/586,  22/06/2021 
+Title-F-89, (2003) , Kevin Bacon, IEEE, "journal-q", vol.4 no.8 doi:166/1052  08/03/2021 
+Title-F-97, (2000), Kevin Bacon, in book-d, IEEE, ed: Guffy, doi:12/1513,  07/07/2021 
+Title-F-4, (2002), Saemi Haraldsson, in book-a, IEEE, ed: Elsa, doi:1011/1591,  02/11/2021 
+Title-F-5, (2001) , Saemi Haraldsson, IEEE, "journal-p", vol.6 no.6 doi:291/626  23/10/2021 
+Title-C-15, (2009) Saemi Haraldsson, IEEE, Conference-4 in Location-I doi:1226/1154,  28/01/2021 
+Title-E-19, (2012) Saemi Haraldsson, IEEE, Conference-7 in Location-Y doi:475/524,  23/10/2021 
+Title-B-28, (2014) , Saemi Haraldsson, IEEE, "journal-x", vol.6 no.1 doi:727/505  17/08/2021 
+Title-D-31, (2016), Saemi Haraldsson, in book-f, IEEE, ed: Donald Duck, doi:1146/1097,  04/11/2021 
+Title-H-34, (2012) Saemi Haraldsson, IEEE, Conference-1 in Location-O doi:1299/676,  07/11/2021 
+Title-H-42, (2020) Saemi Haraldsson, IEEE, Conference-6 in Location-R doi:534/611,  14/10/2021 
+Title-A-45, (2003) Saemi Haraldsson, IEEE, Conference-6 in Location-O doi:1361/667,  20/10/2021 
+Title-E-49, (2001) Saemi Haraldsson, IEEE, Conference-6 in Location-R doi:105/1463,  26/05/2021 
+Title-E-50, (2014) , Saemi Haraldsson, IEEE, "journal-x", vol.7 no.2 doi:1319/794  11/03/2021 
+Title-D-55, (2008), Saemi Haraldsson, in book-s, IEEE, ed: Elsa, doi:1597/1774,  03/07/2021 
+Title-D-68, (2003) Saemi Haraldsson, IEEE, Conference-8 in Location-I doi:1791/1990,  22/01/2021 
+Title-H-70, (2008), Saemi Haraldsson, in book-g, IEEE, ed: Elsa, doi:1441/313,  01/03/2021 
+Title-E-73, (2019) Saemi Haraldsson, IEEE, Conference-1 in Location-U doi:1521/857,  10/09/2021 
+Title-F-83, (2002) Saemi Haraldsson, IEEE, Conference-3 in Location-P doi:1872/390,  11/02/2021 
+Title-D-85, (2012) , Saemi Haraldsson, IEEE, "journal-p", vol.6 no.3 doi:1982/763  20/02/2021 
+Title-F-89, (2006) Saemi Haraldsson, IEEE, Conference-7 in Location-O doi:462/647,  28/09/2021 
+Title-A-95, (2017), Saemi Haraldsson, in book-f, IEEE, ed: Guffy, doi:1011/141,  03/07/2021 
+Title-F-4, (2002), Saemi Haraldsson, in book-a, IEEE, ed: Elsa, doi:1011/1591,  02/11/2021 
+Title-F-5, (2001) , Saemi Haraldsson, IEEE, "journal-p", vol.6 no.6 doi:291/626  23/10/2021 
+Title-C-15, (2009) Saemi Haraldsson, IEEE, Conference-4 in Location-I doi:1226/1154,  28/01/2021 
+Title-E-19, (2012) Saemi Haraldsson, IEEE, Conference-7 in Location-Y doi:475/524,  23/10/2021 
+Title-B-28, (2014) , Saemi Haraldsson, IEEE, "journal-x", vol.6 no.1 doi:727/505  17/08/2021 
+Title-D-31, (2016), Saemi Haraldsson, in book-f, IEEE, ed: Donald Duck, doi:1146/1097,  04/11/2021 
+Title-H-34, (2012) Saemi Haraldsson, IEEE, Conference-1 in Location-O doi:1299/676,  07/11/2021 
+Title-H-42, (2020) Saemi Haraldsson, IEEE, Conference-6 in Location-R doi:534/611,  14/10/2021 
+Title-A-45, (2003) Saemi Haraldsson, IEEE, Conference-6 in Location-O doi:1361/667,  20/10/2021 
+Title-E-49, (2001) Saemi Haraldsson, IEEE, Conference-6 in Location-R doi:105/1463,  26/05/2021 
+Title-E-50, (2014) , Saemi Haraldsson, IEEE, "journal-x", vol.7 no.2 doi:1319/794  11/03/2021 
+Title-D-55, (2008), Saemi Haraldsson, in book-s, IEEE, ed: Elsa, doi:1597/1774,  03/07/2021 
+Title-D-68, (2003) Saemi Haraldsson, IEEE, Conference-8 in Location-I doi:1791/1990,  22/01/2021 
+Title-H-70, (2008), Saemi Haraldsson, in book-g, IEEE, ed: Elsa, doi:1441/313,  01/03/2021 
+Title-E-73, (2019) Saemi Haraldsson, IEEE, Conference-1 in Location-U doi:1521/857,  10/09/2021 
+Title-F-83, (2002) Saemi Haraldsson, IEEE, Conference-3 in Location-P doi:1872/390,  11/02/2021 
+Title-D-85, (2012) , Saemi Haraldsson, IEEE, "journal-p", vol.6 no.3 doi:1982/763  20/02/2021 
+Title-F-89, (2006) Saemi Haraldsson, IEEE, Conference-7 in Location-O doi:462/647,  28/09/2021 
+Title-A-95, (2017), Saemi Haraldsson, in book-f, IEEE, ed: Guffy, doi:1011/141,  03/07/2021 
+Title-F-4, (2002), Saemi Haraldsson, in book-a, IEEE, ed: Elsa, doi:1011/1591,  02/11/2021 
+Title-F-5, (2001) , Saemi Haraldsson, IEEE, "journal-p", vol.6 no.6 doi:291/626  23/10/2021 
+Title-C-15, (2009) Saemi Haraldsson, IEEE, Conference-4 in Location-I doi:1226/1154,  28/01/2021 
+Title-E-19, (2012) Saemi Haraldsson, IEEE, Conference-7 in Location-Y doi:475/524,  23/10/2021 
+Title-B-28, (2014) , Saemi Haraldsson, IEEE, "journal-x", vol.6 no.1 doi:727/505  17/08/2021 
+Title-D-31, (2016), Saemi Haraldsson, in book-f, IEEE, ed: Donald Duck, doi:1146/1097,  04/11/2021 
+Title-H-34, (2012) Saemi Haraldsson, IEEE, Conference-1 in Location-O doi:1299/676,  07/11/2021 
+Title-H-42, (2020) Saemi Haraldsson, IEEE, Conference-6 in Location-R doi:534/611,  14/10/2021 
+Title-A-45, (2003) Saemi Haraldsson, IEEE, Conference-6 in Location-O doi:1361/667,  20/10/2021 
+Title-E-49, (2001) Saemi Haraldsson, IEEE, Conference-6 in Location-R doi:105/1463,  26/05/2021 
+Title-E-50, (2014) , Saemi Haraldsson, IEEE, "journal-x", vol.7 no.2 doi:1319/794  11/03/2021 
+Title-D-55, (2008), Saemi Haraldsson, in book-s, IEEE, ed: Elsa, doi:1597/1774,  03/07/2021 
+Title-D-68, (2003) Saemi Haraldsson, IEEE, Conference-8 in Location-I doi:1791/1990,  22/01/2021 
+Title-H-70, (2008), Saemi Haraldsson, in book-g, IEEE, ed: Elsa, doi:1441/313,  01/03/2021 
+Title-E-73, (2019) Saemi Haraldsson, IEEE, Conference-1 in Location-U doi:1521/857,  10/09/2021 
+Title-F-83, (2002) Saemi Haraldsson, IEEE, Conference-3 in Location-P doi:1872/390,  11/02/2021 
+Title-D-85, (2012) , Saemi Haraldsson, IEEE, "journal-p", vol.6 no.3 doi:1982/763  20/02/2021 
+Title-F-89, (2006) Saemi Haraldsson, IEEE, Conference-7 in Location-O doi:462/647,  28/09/2021 
+Title-A-95, (2017), Saemi Haraldsson, in book-f, IEEE, ed: Guffy, doi:1011/141,  03/07/2021 
