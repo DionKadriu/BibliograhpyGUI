@@ -5,7 +5,7 @@ import java.text.SimpleDateFormat;
 import java.util.Arrays;
 import java.util.Date;
 /**
- * @author 2835267
+ * @author Dion Kadriu
  * The parent class with the common attributes that the child classes will have
  * */
 @XmlType(propOrder = {"title", "authors", "pubyear", "publisher", "doi","date"})//setting the order for the elements of the xml
