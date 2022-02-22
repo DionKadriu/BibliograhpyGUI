@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 
 /**
- * @author 2835267
+ * @author Dion Kadriu
  * class to give the possibility of adding authors manually
  */
 public class AuthorsGUI extends JFrame implements ActionListener{
