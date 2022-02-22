@@ -4,7 +4,7 @@ import com.sun.xml.txw2.annotation.XmlNamespace;
 import javax.xml.bind.annotation.*;
 
 /**
- * @author 2835267
+ * @author Dion Kadriu
  * The class that handles the refBookChapter objects
  */
 @XmlRootElement(name = "item")//setting the root element to RefBookChapter class with the name of item
