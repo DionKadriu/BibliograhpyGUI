@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.concurrent.TimeUnit;
 /**
- * @author 2835267
+ * @author Dion Kadriu
  */
 public class MyFrameAnimation extends JFrame {
     MyPanelAnimation myPanelAnimation;
