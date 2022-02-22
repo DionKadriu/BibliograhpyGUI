@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 /**
- * @author 2835267
+ * @author Dion Kadriu
  * class for the animation in the beginning of the application
  */
 
