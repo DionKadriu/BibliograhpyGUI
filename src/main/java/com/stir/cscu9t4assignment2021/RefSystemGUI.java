@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
 import javax.swing.*;
 
 /**
- * @author 2835267
+ * @author Dion Kadriu
  * This is the GUI class
  */
 public class RefSystemGUI extends JFrame implements ActionListener {
